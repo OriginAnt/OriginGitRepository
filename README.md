@@ -1,0 +1,2 @@
+# OriginGitRepository
+在Intellij IDEA上测试Github的集成
